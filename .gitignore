@@ -1,0 +1,6 @@
+*.ipynb
+*.db
+*.pyc
+.idea
+token.pickle
+set_env.py
